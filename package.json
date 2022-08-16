@@ -54,6 +54,6 @@
     "webpack": "^4.41.5"
   },
   "peerDependencies": {
-    "typesaurus": ">=8"
+    "typesaurus": ">=8.0.0-alpha.32"
   }
 }
